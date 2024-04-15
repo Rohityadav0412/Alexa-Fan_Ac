@@ -79,6 +79,8 @@ I have implmented some edge cases such as all the
 functionality will work if the power will be ON.
 If the users try to set up the temperature other than 16-
 25 range, it would not work.
+![ac](https://github.com/Rohityadav0412/Alexa-Fan_Ac/assets/77201112/60ed9e5d-d3b5-4a8f-8020-19c0dd52a027)
+
 
 # Fan Skill
 In this I have implemented the basic functionalities of
@@ -93,3 +95,4 @@ I have implmented some edge cases such as all the
 functionality will work if the power will be ON.
 If the users try to set up the speed other than 1-5 range,
 it would not work.
+![fan](https://github.com/Rohityadav0412/Alexa-Fan_Ac/assets/77201112/81f6482f-010a-43d3-aae2-3055a3a3a982)
